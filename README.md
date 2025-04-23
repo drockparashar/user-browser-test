@@ -12,7 +12,7 @@ This project demonstrates a **LLM + Browser automation prototype** that:
 
 ## ✨ Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://youtu.be/abc123XYZ)
+[![Watch the demo](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://www.youtube.com/watch?v=TabCsGJEMiE)
 
 ---
 
